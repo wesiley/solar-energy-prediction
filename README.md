@@ -1,7 +1,7 @@
 # Energias Renováveis ​​e Condições Climáticas
 *Explorando o impacto do clima na geração de energia renovável.*
 
-<img src="https://images.pexels.com/photos/6694543/pexels-photo-6694543.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1" alt="salary">
+<img src= "https://images.pexels.com/photos/433308/pexels-photo-433308.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1">
 
 Este conjunto de dados contém informações sobre consumo de energia e vários parâmetros climáticos, como radiação solar, temperatura, pressão, umidade, velocidade do vento e precipitação.
 
